@@ -65,6 +65,7 @@ Performed using **pandas**, **NumPy**, and **matplotlib**:
 ###  Total revenue generated from successfully completed orders (exclude cancelled orders).
 #### -> select sum(Amount) as Revenue_by_Completed_Orders from sales
 ####    where Status="Delivered";  
+https://github.com/omkardhadam90-svg/E-Commerce-Sales-Analysis-Case-Study-Python-MYSQL/blob/fc13703482aae97676f719187c734f1df34254c2/IMAGES/Screenshot%202025-11-21%20013127.png
 
 ### What is the overall cancellation rate? Calculate both by order count and by revenue value.
 
